@@ -31,3 +31,6 @@ The frontend is powered by **React + Vite** with **Tailwind CSS** for styling, e
 - Responsive design for mobile and desktop.
 
 ---
+
+<h4 align="center" style="color:gold;">✨ Thank You ✨</h4> 
+<h3 align="center" style="color:#e74c3c;">Created By: Aniket, Monalisha, Sarnendu, Aachal</h3>
