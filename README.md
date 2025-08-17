@@ -1,6 +1,6 @@
 # MERN Stack Chatting App
 
-Live at:- 
+Live at:- https://chat-buddies.vercel.app/
 
 A real-time chatting application built with the **MERN stack** (MongoDB, Express.js, React, Node.js) and **Socket.IO** for instant communication.  
 The frontend is powered by **React + Vite** with **Tailwind CSS** for styling, ensuring fast performance and a modern UI.
