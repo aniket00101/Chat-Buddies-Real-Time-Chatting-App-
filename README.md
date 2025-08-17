@@ -24,9 +24,8 @@ The frontend is powered by **React + Vite** with **Tailwind CSS** for styling, e
 
 ## ⚡ Features
 - User authentication (login/register).
-- Real-time one-to-one and group chats.
+- Real-time one-to-one chats.
 - Online/offline user status.
-- Typing indicators.
 - Message timestamps.
 - Responsive design for mobile and desktop.
 
